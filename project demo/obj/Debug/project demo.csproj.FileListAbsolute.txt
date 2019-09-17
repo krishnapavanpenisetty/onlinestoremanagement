@@ -1,0 +1,56 @@
+E:\project\project demo\project demo\bin\project demo.dll.config
+E:\project\project demo\project demo\bin\project demo.dll
+E:\project\project demo\project demo\bin\project demo.pdb
+E:\project\project demo\project demo\bin\roslyn\csc.exe
+E:\project\project demo\project demo\bin\roslyn\csc.exe.config
+E:\project\project demo\project demo\bin\roslyn\csc.rsp
+E:\project\project demo\project demo\bin\roslyn\csi.exe
+E:\project\project demo\project demo\bin\roslyn\csi.exe.config
+E:\project\project demo\project demo\bin\roslyn\csi.rsp
+E:\project\project demo\project demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\project\project demo\project demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\project demo\project demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\project\project demo\project demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\project\project demo\project demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\project\project demo\project demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\project\project demo\project demo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\project\project demo\project demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\project\project demo\project demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\project\project demo\project demo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\project\project demo\project demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\project\project demo\project demo\bin\roslyn\System.AppContext.dll
+E:\project\project demo\project demo\bin\roslyn\System.Collections.Immutable.dll
+E:\project\project demo\project demo\bin\roslyn\System.Console.dll
+E:\project\project demo\project demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\project\project demo\project demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\project\project demo\project demo\bin\roslyn\System.IO.Compression.dll
+E:\project\project demo\project demo\bin\roslyn\System.IO.FileSystem.dll
+E:\project\project demo\project demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\project\project demo\project demo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\project\project demo\project demo\bin\roslyn\System.IO.Pipes.dll
+E:\project\project demo\project demo\bin\roslyn\System.Reflection.Metadata.dll
+E:\project\project demo\project demo\bin\roslyn\System.Security.AccessControl.dll
+E:\project\project demo\project demo\bin\roslyn\System.Security.Claims.dll
+E:\project\project demo\project demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\project\project demo\project demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\project\project demo\project demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\project\project demo\project demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\project\project demo\project demo\bin\roslyn\System.Security.Principal.Windows.dll
+E:\project\project demo\project demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\project\project demo\project demo\bin\roslyn\System.ValueTuple.dll
+E:\project\project demo\project demo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\project\project demo\project demo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\project\project demo\project demo\bin\roslyn\System.Xml.XPath.dll
+E:\project\project demo\project demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\project\project demo\project demo\bin\roslyn\vbc.exe
+E:\project\project demo\project demo\bin\roslyn\vbc.exe.config
+E:\project\project demo\project demo\bin\roslyn\vbc.rsp
+E:\project\project demo\project demo\bin\roslyn\VBCSCompiler.exe
+E:\project\project demo\project demo\bin\roslyn\VBCSCompiler.exe.config
+E:\project\project demo\project demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\project\project demo\project demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\project\project demo\project demo\obj\Debug\project demo.csprojAssemblyReference.cache
+E:\project\project demo\project demo\obj\Debug\project demo.csproj.CoreCompileInputs.cache
+E:\project\project demo\project demo\obj\Debug\project demo.csproj.CopyComplete
+E:\project\project demo\project demo\obj\Debug\project demo.dll
+E:\project\project demo\project demo\obj\Debug\project demo.pdb
